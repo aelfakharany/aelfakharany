@@ -1,5 +1,6 @@
 ## 👋 Welcome! I'm Ahmad.
-- 🌱 I’m currently learning Python and [full stack web development](https://www.theodinproject.com/paths/full-stack-javascript).
+- 🌱 Some things I’m currently working on...
+  - [Learning full stack web development](https://www.theodinproject.com/paths/full-stack-javascript)
 - 📫 Feel free to reach out to me at ahmadel@umich.edu
 
 
