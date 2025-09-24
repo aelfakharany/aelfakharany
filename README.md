@@ -1,6 +1,7 @@
 ## 👋 Welcome! I'm Ahmad.
-- 🌱 Some things I’m currently working on...
-  - Learning [full stack web development](https://www.theodinproject.com/paths/full-stack-javascript)
+- 🌱 I'm working on leveling up my full-stack chops, learning technologies like Next.js, FastAPI, and PostgreSQL.
+- 🛠️ Currently building a full-stack application to solve a pressing problem on my college campus (stay tuned!), as well as various C++ programs with an emphasis on efficiency.
+- 🤝 I'm open to working on cool projects.
 - 📫 Feel free to reach out to me at ahmad@ahmade.me
 
 
