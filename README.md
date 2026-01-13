@@ -1,9 +1,24 @@
-## 👋 Welcome! I'm Ahmad.
-- 🌱 I'm working on leveling up my full-stack chops, learning technologies like Next.js, FastAPI, and PostgreSQL.
-- 🛠️ Currently building a full-stack application to solve a pressing problem on my college campus (stay tuned!), as well as various C++ programs with an emphasis on efficiency.
-- 🤝 I'm open to working on cool projects.
-- 📫 Feel free to reach out to me at ahmadel@umich.edu
-
+                          ___    __                        __   ________      ______      __   __                                
+                         /   |  / /_  ____ ___  ____ _____/ /  / ____/ /     / ____/___ _/ /__/ /_  ____ __________ _____  __  __
+                        / /| | / __ \/ __ `__ \/ __ `/ __  /  / __/ / /_____/ /_  / __ `/ //_/ __ \/ __ `/ ___/ __ `/ __ \/ / / /
+                       / ___ |/ / / / / / / / / /_/ / /_/ /  / /___/ /_____/ __/ / /_/ / ,< / / / / /_/ / /  / /_/ / / / / /_/ / 
+                      /_/  |_/_/ /_/_/ /_/ /_/\__,_/\__,_/  /_____/_/     /_/    \__,_/_/|_/_/ /_/\__,_/_/   \__,_/_/ /_/\__, /  
+                                                                                                                        /____/   
+    
+                                            .                  .-.    .  _   *     _   .
+                                                   *          /   \     ((       _/ \       *    .
+                                                 _    .   .--'\/\_ \     `      /    \  *    ___
+                                             *  / \_    _/ ^      \/\'__        /\/\  /\  __/   \ *
+                                               /    \  /    .'   _/  /  \  *' /    \/  \/ .`'\_/\   .
+                                          .   /\/\  /\/ :' __  ^/  ^/    `--./.'  ^  `-.\ _    _:\ _
+                                             /    \/  \  _/  \-' __/.' ^ _   \_   .'\   _/ \ .  __/ \
+                                           /\  .-   `. \/     \ / -.   _/ \ -. `_/   \ /    `._/  ^  \
+                                          /  `-.__ ^   / .-'.--'    . /    `--./ .-'  `-.  `-. `.  -  `.
+                                        @/        `.  / /      `-.   /  .-'   / .   .'   \    \  \  .-  \%
+                                        @&8jgs@@%% @)&@&(88&@.-_=_-=_-=_-=_-=_.8@% &@&&8(8%@%8)(8@%8 8%@)%
+                                        @88:::&(&8&&8:::::%&`.~-_~~-~~_~-~_~-~~=.'@(&%::::%@8&8)::&#@8::::
+                                        `::::::8%@@%:::::@%&8:`.=~~-.~~-.~~=..~'8::::::::&@8:::::&8:::::'
+                                         `::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.'
 
 <!--
 **aelfakharany/aelfakharany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
